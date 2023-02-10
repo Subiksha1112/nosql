@@ -1,0 +1,18 @@
+127.0.0.1:6379> rpush stud1 subiksha 20itr108 IT vcet erode 7010912450
+(integer) 5
+127.0.0.1:6379> rpush stud2 sandhita 20itr091 IT vcet Gobi 9436833445
+(integer) 5
+127.0.0.1:6379> rpush stud3 srinidhi 20itr102 IT vcet pallipalayam 9325335211 
+(integer) 5
+127.0.0.1:6379> rpush stud4 vaishali 20itr119 IT vcet Perundurai 85411232141 
+(integer) 5
+127.0.0.1:6379> rpush stud6 ramya 20itr109 IT vcet erode 96551116521 
+(integer) 5
+127.0.0.1:6379> rpush stud7 varsha 20itr121 IT vcet erode 87451111521 
+(integer) 5
+127.0.0.1:6379> rpush stud8 Pradeepa 20itr080 IT vcet  8742425612 
+(integer) 5
+127.0.0.1:6379> rpush stud9 naveena 20itr073 IT vcet  8722224512 
+(integer) 5
+127.0.0.1:6379> rpush stud10 keerthana 20itr047 IT vcet 7418523963 
+(integer) 5
